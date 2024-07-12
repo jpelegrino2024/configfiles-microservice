@@ -2,6 +2,7 @@ build:
   version: 1.0
 
 contact:
+  environment: "dev"
   email: "dev@server.com"
   phones:
     - 809-549-3625

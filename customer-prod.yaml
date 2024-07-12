@@ -2,5 +2,6 @@ build:
   version: 1.2
 
 customer:
+  environment: "prod"
   fullname: Amanda Rojas
   email: amanda@gmail.com
