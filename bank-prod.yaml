@@ -1,5 +1,5 @@
 contact:
-  environment: "production"
+  environment: "prod"
   email: "prod@server.com"
   phones:
     - 809-633-3625
